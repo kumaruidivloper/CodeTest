@@ -1,0 +1,16 @@
+{
+  "name": "nca-code-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "servers": "concurrently --kill-others \"json-server --host localhost --watch ./database/db.json --port 3000\"  \"json-server --host localhost --watch ./database/db_2.json --port 3001\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.0",
+    "json-server": "^0.17.3"
+  }
+}

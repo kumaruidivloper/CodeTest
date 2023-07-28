@@ -1,0 +1,33 @@
+{
+    "articals": [
+        {
+            "id": 2,
+            "data": [
+                {
+                    "title":"live: greg inglis to announce nrl retirment live",
+                    "imageurl": "./assets/image_001.jpg",
+                    "intro": "Rabbitohs star Greg Inglis has arrived at south sydney headquarters and will front a media conference later this morning to announce his retirement from rugby league.",
+                    "Published": 10
+                },
+                {
+                    "title":"live: Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "imageurl": "./assets/image_002.jpg",
+                    "intro": "Exclusive People are still unable to move back into almost half the apartments in Opal Tower more than three months after cracks appeared in the trouble-plagued building and final rectification works have only just been given the green light.",
+                    "Published": 2
+                },
+                {
+                    "title":"One Nation support has crashed: Newspoll",
+                    "imageurl": "./assets/small_ims2.jpg",
+                    "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla.",
+                    "Published": 20
+                },
+                {
+                    "title":"Two fake cops robbed Sydney currency exchange shop",
+                    "imageurl": "./assets/small_ims2.jpg",
+                    "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla.",
+                    "Published": 30
+                }
+            ]
+        } 
+    ]
+}
