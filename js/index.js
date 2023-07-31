@@ -3,8 +3,10 @@ let rootdiv = document.getElementById('root-div');
 let defaultPage = "landing";
 // let baseURL = 'http://localhost:3000/collections/'
 // let baseURL_2 = 'http://localhost:3001/articals/'
-let baseURL = 'https://www.jsonkeeper.com/b/A3HJ/'
-let baseURL_2 = 'https://www.jsonkeeper.com/b/LCQA/'
+// let baseURL = 'https://www.jsonkeeper.com/b/A3HJ/'
+// let baseURL_2 = 'https://www.jsonkeeper.com/b/LCQA/'
+let baseURL = 'https://kumaruidivloper.github.io/JsonServer/collections.json'
+let baseURL_2 = 'https://kumaruidivloper.github.io/JsonServer/articals.json'
 
 //change the color intro
 function changeFirstWordcColor(color, value, number) {
